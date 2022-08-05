@@ -2,17 +2,22 @@ div#contenedor__header{
     background-color: black;
     display: flex;
     justify-content: space-between;
-    height: 60px;
+    align-items: center;
+    padding: 5px;
+    height: 55px;
   
         
 }
 
 
 div#logoap{
-    ;
-    
-
-    
+      
   
+}
+
+div#socialmedia{
+
+    align-items: center;
+    justify-content: flex-end;
 }
 
