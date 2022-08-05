@@ -1,3 +1,18 @@
-div#logoap{
+div#contenedor__header{
     background-color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+  
+        
 }
+
+
+div#logoap{
+    ;
+    
+
+    
+  
+}
+

@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './componentes/header/header.component';
 import { LogoapComponent } from './componentes/logoap/logoap.component';
 import { LogogitComponent } from './componentes/logogit/logogit.component';
+import { SocialmediaComponent } from './componentes/socialmedia/socialmedia.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     LogoapComponent,
-    LogogitComponent
+    LogogitComponent,
+    SocialmediaComponent
   ],
   imports: [
     BrowserModule,
